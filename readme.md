@@ -1,0 +1,1 @@
+Practicing and applying PyTorch. The goal is to gain hands-on experience with PyTorch core concepts
